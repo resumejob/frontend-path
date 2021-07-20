@@ -84,22 +84,22 @@ Frontend learning path, 前端学习路线
 
 #### Network
 - [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
-    - Requests & Responses
-    - The Web from Python
-    - HTTP in the Real World
+    1. Requests & Responses
+    2. The Web from Python
+    3. HTTP in the Real World
 - [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
-    - From Ping to HTTP
-    - Names and Addresses
-    - Addressing and Networks
-    - Protocol Layers
-    - Big Networks
+    1. From Ping to HTTP
+    2. Names and Addresses
+    3. Addressing and Networks
+    4. Protocol Layers
+    5. Big Networks
 - [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
-    - HTTP’s Request Response Cycle
-    - HTTP/1
-    - HTTPS
-    - HTTP/2
-    - Security
+    1. HTTP’s Request Response Cycle
+    2. HTTP/1
+    3. HTTPS
+    4. HTTP/2
+    5. Security
 
 #### Interview
 - [Front-End Interview Prep](https://www.udacity.com/course/front-end-interview-prep--ud250)
-    - Interview Practice
+    1. Interview Practice
